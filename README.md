@@ -47,14 +47,14 @@ Currently working on projects that blend **web development, databases, and softw
 
 ## 🌟 Featured Projects
 
-### 🎟️ [GlobalTicket.com](https://github.com/yourusername/GlobalTicket)
+### 🎟️ [GlobalTicket.com](https://github.com/tedoturmm/GlobalTicket)
 
 A ticketing platform for global events.
 ![GlobalTicket Screenshot](https://via.placeholder.com/600x300.png?text=GlobalTicket+Preview)
 
 ---
 
-### 🎮 [Soltra-Client MC Launcher](https://github.com/yourusername/Soltra-Client)
+### 🎮 [Soltra-Client](https://github.com/tedoturmm/Soltra-Client)
 
 Custom **Minecraft Launcher** with extended functionality.
 ![MC Launcher Screenshot](https://via.placeholder.com/600x300.png?text=Soltra+MC+Launcher+Preview)
@@ -64,7 +64,7 @@ Custom **Minecraft Launcher** with extended functionality.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tedoturmm&layout=compact\&theme=tokyonight)
 
 ---
 
